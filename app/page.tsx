@@ -26,7 +26,7 @@ export default function Page() {
               href="https://nextjs.org/learn/"
               className="text-blue-500"
             >
-              Next.js Learn Course
+              Next.js 14 Learn Course
             </a>
             , brought to you by Vercel.
           </p>
